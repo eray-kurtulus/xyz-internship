@@ -1,3 +1,6 @@
+This README is obsolete, see the wiki of this repository.
+
+***
 ## 0. Introduction
 This README explains the work I have done on my first internship at XYZ Technology.
 Author: Eray Kurtuluş
